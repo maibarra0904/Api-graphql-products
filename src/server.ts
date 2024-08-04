@@ -10,5 +10,4 @@ server.get('/', (req, res) => {
 
 })
 
-
 export default server
